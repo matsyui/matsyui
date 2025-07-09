@@ -34,7 +34,7 @@
 </span><br/>
 <span align="center"><i>These are my personal and client projects, as well as projects to which I have contributed.</i></span>
     <center>
-   <img src="https://i.imgur.com/Gzy5czE.png"/>
+<a href="https://gitroll.io/profile/uM3n5BWntJ2dFwTTFR7VZvu6Crev2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uM3n5BWntJ2dFwTTFR7VZvu6Crev2?theme=dark" alt="GitRoll Profile Badge"/></a>
    </center>
 <table align="center">
     <tr>
